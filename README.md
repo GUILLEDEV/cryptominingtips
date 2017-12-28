@@ -1,0 +1,2 @@
+# cryptominingtips
+GitHub Pages
